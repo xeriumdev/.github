@@ -25,8 +25,3 @@
 - Lightweight control panel for self-hosted Docker containers  
 - Developer environments for rapid game server testing  
 
-## Getting Started
-
-1. **Install Dependencies**
-   ```bash
-   npm install
